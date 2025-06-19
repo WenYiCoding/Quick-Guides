@@ -1,0 +1,5 @@
+Steps to create C# project here:
+------------------------------------
+1. Ctrl + Shift + P
+2. Select ".NET: New Project..."
+3. Select "Console App"
