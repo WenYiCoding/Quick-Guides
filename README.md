@@ -1,2 +1,2 @@
 ﻿# Quick-Guides
-My cheatsheet for programming in multiple languages
+My programming cheatsheet for multiple programming languages
