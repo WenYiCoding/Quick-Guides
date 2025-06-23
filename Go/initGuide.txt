@@ -1,0 +1,8 @@
+> go mod init moduleName.com/moduleName
+ - enable and initialize module management
+
+> go run filepath
+ - execute the file directly
+
+> go build filepath
+ - compile and generate an executable
