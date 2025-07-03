@@ -385,5 +385,3 @@ func func4() (result string) { // with named return value
 func func5() (string, string) { // with multiple return values, can be named as well
 	return "multiple", "results"
 }
-
-// https://www.w3schools.com/go/go_maps.php

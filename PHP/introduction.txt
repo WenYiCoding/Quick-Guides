@@ -1,0 +1,10 @@
+PHP can contain HTML, CSS, Js
+Because of this, PHP can generate HTML output
+However, PHP is a scripting language
+
+You need to install PHP (https://www.php.net/manual/en/install.general.php)
+If you want create PHP as a webpage, web server is a requirement
+ - such as Internet Information Services for Windows, Apache for other platforms
+
+There are popular php bundle
+- XAMPP (https://www.apachefriends.org/)
